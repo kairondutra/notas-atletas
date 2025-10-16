@@ -1,6 +1,10 @@
-# 🏅 Notas dos Atletas
+# 🏅 Projeto de Certificação 1 — Pontuação dos Atletas
 
-Este projeto foi desenvolvido para calcular a **média válida** das notas de atletas em uma competição de ginástica artística.
+🎓 Este projeto foi desenvolvido como parte da **Trilha 1: Lógica de Programação**,
+na **Fase 8 — Projetos Avançados**, do curso **Jornada DEVstart CE** do **SENAI/SC**.
+
+O desafio integra o módulo **“Projetos de Certificação”** e tem como objetivo aplicar conceitos de lógica de programação e manipulação de dados em **JavaScript**, desenvolvendo uma aplicação capaz de calcular a **média válida** das notas de atletas em uma competição de ginástica artística.
+
 Cada atleta recebe **cinco notas** de jurados, e a média é calculada **desconsiderando a maior e a menor nota**.
 
 ---
@@ -68,7 +72,7 @@ Média Válida: 9.83333333333
    git clone https://github.com/kairondutra/notas-atletas
    ```
 
-2. Abra o arquivo `notas-atletas.js` em seu editor (VS Code, por exemplo);
+2. Abra o arquivo `notas-atletas.js` no seu editor (VS Code, por exemplo);
 
 3. Execute o código em um ambiente JavaScript (como o console do navegador ou Node.js);
 
@@ -84,4 +88,4 @@ Média Válida: 9.83333333333
 
 ## ✍️ Autor
 
-Projeto desenvolvido por **Kairon Dutra** como parte de um desafio do DEVstart.
+Projeto desenvolvido por **Kairon Dutra** como parte de um desafio do **Jornada DEVstart CE — SENAI/SC**.
