@@ -72,7 +72,7 @@ Média Válida: 9.83333333333
    git clone https://github.com/kairondutra/notas-atletas
    ```
 
-2. Abra o arquivo `notas-atletas.js` no seu editor (VS Code, por exemplo);
+2. Abra o arquivo `main.js` no seu editor (VS Code, por exemplo);
 
 3. Execute o código em um ambiente JavaScript (como o console do navegador ou Node.js);
 
